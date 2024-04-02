@@ -1,0 +1,113 @@
+.Dylan{
+    font-size: 22px;
+    padding: 0%;
+    align-items: start;
+    display: flex;
+    gap: 22px;
+}
+
+.Examen{
+    font-size: 22px;
+    color: aliceblue;
+    background-color: black;
+    align-items: end;
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    border-radius: 20px; 
+}
+
+.Titulo{
+    font-size: 15px;
+    justify-content: end;
+}
+
+
+.cuadrito1 {
+    width: 300px;  
+    height: 80px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: blueviolet;
+    border-radius: 20px; 
+}
+
+.egundoTitulo{
+    font-size: 15px;
+    justify-content: end;
+}
+
+.cuadrito2{
+    width: 150px;  
+    height: 100px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+    margin-bottom: 20px;
+
+}
+
+.cuadrito3{
+    width: 150px;  
+    height: 100px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+}
+
+.cuadrito4{
+    width: 150px;  
+    height: 100px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+}
+
+.cuadrito5{
+    width: 150px;  
+    height: 50px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+}
+
+
+.cuadrito6{
+    width: 150px;  
+    height: 50px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+}
+
+.cuadrito7{
+    width: 150px;  
+    height: 150px;  
+    border: 2px solid black;  
+    margin: 0 auto; 
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; 
+}
